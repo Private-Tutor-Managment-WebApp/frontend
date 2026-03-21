@@ -1,0 +1,6 @@
+export { mockUsers } from './users'
+export { mockGroups } from './groups'
+export { mockHomeworks } from './homeworks'
+export { mockSubmissions } from './submissions'
+export { mockMaterials } from './materials'
+export { mockLessons } from './lessons'
